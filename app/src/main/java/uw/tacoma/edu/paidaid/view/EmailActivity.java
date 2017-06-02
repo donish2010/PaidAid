@@ -15,7 +15,6 @@ import uw.tacoma.edu.paidaid.R;
  * @Author Dmitriy Onishchenko
  * @version 5/26/17
  *
-
 /**
  * Email Activity is an activity launched when the user is able to pick up a request,
  * prompting the user with an email template ready to fill in.
